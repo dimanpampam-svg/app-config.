@@ -2,8 +2,9 @@
   {
     "id": 1,
     "advertiser": "Первая Реклама",
-    "text": "неврологическая клиника",
-    "url": "https://google.com",
+    "text": "Центр эпилепсии
+НЕВРОЛОГИЧЕСКАЯ КЛИНИКА",
+    "url": "https://центр-эпилепсии.рф",
     "dailyLimit": 100,
     "intervalMinutes": 10
   }
