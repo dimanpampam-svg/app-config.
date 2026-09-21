@@ -2,7 +2,7 @@
   {
     "id": 1,
     "advertiser": "Первая Реклама",
-    "text": "Текст вашего первого объявления здесь",
+    "text": "неврологическая клиника",
     "url": "https://google.com",
     "dailyLimit": 100,
     "intervalMinutes": 10
