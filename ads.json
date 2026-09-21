@@ -4,7 +4,7 @@
     "advertiser": "Первая Реклама",
     "text": "Центр эпилепсии",
     "url": "https://центр-эпилепсии.рф",
-    "dailyLimit": 100,
+    "dailyLimit": 1000,
     "intervalMinutes": 10
   }
 ]
