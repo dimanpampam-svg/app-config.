@@ -2,7 +2,7 @@
   {
     "id": 1,
     "advertiser": "Первая Реклама",
-    "text": "",
+    "text": "Бата версия 0.1",
     "url": "",
     "dailyLimit": 100,
     "intervalMinutes": 10
